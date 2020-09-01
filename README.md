@@ -4,7 +4,7 @@ oauthlib
 
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![Build Status](https://travis-ci.com/ropenscilabs/oauthlib.svg?branch=master)](https://travis-ci.com/ropenscilabs/oauthlib)
+[![Build Status](https://travis-ci.com/sckott/oauthlib.svg?branch=master)](https://travis-ci.com/sckott/oauthlib)
 
 oauthlib: build and validate OAuth headers, following Ruby's <https://github.com/laserlemon/simple_oauth>
 
@@ -14,7 +14,7 @@ oauthlib: build and validate OAuth headers, following Ruby's <https://github.com
 
 
 ```r
-remotes::install_github("ropenscilabs/oauthlib")
+remotes::install_github("sckott/oauthlib")
 ```
 
 
@@ -57,9 +57,7 @@ x$signed_attributes()
 
 ## Meta
 
-* Please [report any issues or bugs](https://github.com/ropenscilabs/oauthlib/issues).
+* Please [report any issues or bugs](https://github.com/sckott/oauthlib/issues).
 * License: MIT
 * Get citation information for `oauthlib` in R doing `citation(package = 'oauthlib')`
 * Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
-[![rofooter](https://ropensci.org/public_images/github_footer.png)](https://ropensci.org)
